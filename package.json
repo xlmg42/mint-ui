@@ -1,6 +1,6 @@
 {
-  "name": "mint-ui",
-  "version": "2.2.13",
+  "name": "mint-ui-xlmg42",
+  "version": "1.0.0",
   "description": "Mobile UI elements for vue.js",
   "keywords": [
     "component",
@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElemeFE/mint-ui.git"
+    "url": "git+https://github.com/xlmg42/mint-ui.git"
   },
-  "homepage": "https://github.com/ElemeFE/mint-ui#readme",
+  "homepage": "https://github.com/xlmg42/mint-ui#readme",
   "bugs": {
-    "url": "https://github.com/ElemeFE/mint-ui/issues"
+    "url": "https://github.com/xlmg42/mint-ui/issues"
   },
   "author": "elemefe",
   "license": "MIT",
@@ -76,6 +76,6 @@
     "webpack": "^0.5.1",
     "webpack-dev-server": "2.2.0-rc.0",
     "webpack-shell-plugin": "^0.4.3"
-    
+
   }
 }
