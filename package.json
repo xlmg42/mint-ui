@@ -76,5 +76,6 @@
     "webpack": "^0.5.1",
     "webpack-dev-server": "2.2.0-rc.0",
     "webpack-shell-plugin": "^0.4.3"
+    
   }
 }
